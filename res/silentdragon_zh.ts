@@ -632,23 +632,23 @@
     </message>
     <message>
         <source>SilentDragon needs to restart to rescan/reindex. SilentDragon will now close, please restart SilentDragon to continue</source>
-        <translation type="vanished">SlientDragon需要重新启动才能重新扫描/重新索引。 SlientDragon现在关闭，请重启SlientDragon以继续</translation>
+        <translation type="vanished">SilentDragon需要重新启动才能重新扫描/重新索引。 SilentDragon现在关闭，请重启SilentDragon以继续</translation>
     </message>
     <message>
-        <source>Restart SlientDragon</source>
-        <translation type="vanished">重启SlientDragon</translation>
+        <source>Restart SilentDragon</source>
+        <translation type="vanished">重启SilentDragon</translation>
     </message>
     <message>
-        <source>Thanks for supporting SlientDragon!</source>
-        <translation type="vanished">感谢您支持SlientDragon！</translation>
+        <source>Thanks for supporting SilentDragon!</source>
+        <translation type="vanished">感谢您支持SilentDragon！</translation>
     </message>
     <message>
         <source>Donate 0.01 </source>
         <translation type="vanished">捐赠0.01 </translation>
     </message>
     <message>
-        <source> to support SlientDragon</source>
-        <translation type="vanished"> 支持SlientDragon</translation>
+        <source> to support SilentDragon</source>
+        <translation type="vanished"> 支持SilentDragon</translation>
     </message>
     <message>
         <source>You are on testnet, your post won&apos;t actually appear on z-board.net</source>
@@ -1118,8 +1118,8 @@ doesn&apos;t look like a z-address</source>
         <translation>连接手机App</translation>
     </message>
     <message>
-        <source>Scan this QRCode from your SlientDragon companion app to connect your phone</source>
-        <translation type="vanished">从您的SlientDragon配套应用程序扫描此二维码以连接您的手机</translation>
+        <source>Scan this QRCode from your SilentDragon companion app to connect your phone</source>
+        <translation type="vanished">从您的SilentDragon配套应用程序扫描此二维码以连接您的手机</translation>
     </message>
     <message>
         <location filename="../src/mobileappconnector.ui" line="43"/>
@@ -1132,12 +1132,12 @@ doesn&apos;t look like a z-address</source>
         <translation>连接字符串</translation>
     </message>
     <message>
-        <source>Allow connections over the internet via SlientDragon wormhole</source>
-        <translation type="vanished">允许通过SlientDragon虫洞连接互联网</translation>
+        <source>Allow connections over the internet via SilentDragon wormhole</source>
+        <translation type="vanished">允许通过SilentDragon虫洞连接互联网</translation>
     </message>
     <message>
-        <source>SlientDragon Companion App</source>
-        <translation type="vanished">SlientDragon配套App</translation>
+        <source>SilentDragon Companion App</source>
+        <translation type="vanished">SilentDragon配套App</translation>
     </message>
     <message>
         <location filename="../src/mobileappconnector.ui" line="36"/>
@@ -1281,13 +1281,13 @@ doesn&apos;t look like a z-address</source>
         <translation>等待hushd</translation>
     </message>
     <message>
-        <source>You have hushd set to start as a daemon, which can cause problems with SlientDragon
+        <source>You have hushd set to start as a daemon, which can cause problems with SilentDragon
 
-.Please remove the following line from your HUSH3.conf and restart SlientDragon
+.Please remove the following line from your HUSH3.conf and restart SilentDragon
 daemon=1</source>
-        <translation type="vanished">你已经将hushd设置为守护进程启动，这可能会导致SlientDragon出现问题
+        <translation type="vanished">你已经将hushd设置为守护进程启动，这可能会导致SilentDragon出现问题
 
-。请从HUSH3.conf中删除以下行并重新启动SlientDragon
+。请从HUSH3.conf中删除以下行并重新启动SilentDragon
 daemon=1</translation>
     </message>
     <message>
@@ -1604,8 +1604,8 @@ Would you like to visit the releases page?</source>
         <translation>您已拥有最新版本 v%1</translation>
     </message>
     <message>
-        <source>Please wait for SlientDragon to exit</source>
-        <translation type="vanished">请等待SlientDragon退出</translation>
+        <source>Please wait for SilentDragon to exit</source>
+        <translation type="vanished">请等待SilentDragon退出</translation>
     </message>
     <message>
         <source>Waiting for hushd to exit</source>
@@ -1655,8 +1655,8 @@ You either have unconfirmed funds or the balance is too low for an automatic mig
         <translation>直接连接</translation>
     </message>
     <message>
-        <source>Connected over the internet via SlientDragon wormhole service</source>
-        <translation type="vanished">通过SlientDragon虫洞服务连接互联网</translation>
+        <source>Connected over the internet via SilentDragon wormhole service</source>
+        <translation type="vanished">通过SilentDragon虫洞服务连接互联网</translation>
     </message>
     <message>
         <location filename="../src/websockets.cpp" line="438"/>
@@ -1771,8 +1771,8 @@ You either have unconfirmed funds or the balance is too low for an automatic mig
         <translation type="vanished">计划</translation>
     </message>
     <message>
-        <source>How should SlientDragon proceed?</source>
-        <translation type="vanished">SlientDragon应该如何处理？</translation>
+        <source>How should SilentDragon proceed?</source>
+        <translation type="vanished">SilentDragon应该如何处理？</translation>
     </message>
     <message>
         <source>Pay All in 1 Tx</source>
@@ -2359,8 +2359,8 @@ You either have unconfirmed funds or the balance is too low for an automatic mig
         <translation>重建索引</translation>
     </message>
     <message>
-        <source>Rescan the blockchain for any missing wallet transactions and to correct your wallet balance. This may take several hours. You need to restart SlientDragon for this to take effect</source>
-        <translation type="vanished">重新扫描区块链以查找任何丢失的钱包交易并更正您的钱包余额。 这可能需要几个小时。 您需要重新启动SlientDragon才能使其生效</translation>
+        <source>Rescan the blockchain for any missing wallet transactions and to correct your wallet balance. This may take several hours. You need to restart SilentDragon for this to take effect</source>
+        <translation type="vanished">重新扫描区块链以查找任何丢失的钱包交易并更正您的钱包余额。 这可能需要几个小时。 您需要重新启动SilentDragon才能使其生效</translation>
     </message>
     <message>
         <location filename="../src/settings.ui" line="743"/>
@@ -2368,8 +2368,8 @@ You either have unconfirmed funds or the balance is too low for an automatic mig
         <translation>重新扫描</translation>
     </message>
     <message>
-        <source>Rebuild the entire blockchain from the genesis block, by rescanning all the block files. This may take several hours to days, depending on your hardware. You need to restart SlientDragon for this to take effect</source>
-        <translation type="vanished">通过重新扫描所有区块文件，从创世块重建整个区块链。 这可能需要几个小时到几天，具体取决于您的硬件环境。 您需要重新启动SlientDragon才能使其生效</translation>
+        <source>Rebuild the entire blockchain from the genesis block, by rescanning all the block files. This may take several hours to days, depending on your hardware. You need to restart SilentDragon for this to take effect</source>
+        <translation type="vanished">通过重新扫描所有区块文件，从创世块重建整个区块链。 这可能需要几个小时到几天，具体取决于您的硬件环境。 您需要重新启动SilentDragon才能使其生效</translation>
     </message>
 </context>
 <context>
